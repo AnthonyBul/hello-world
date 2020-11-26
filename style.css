@@ -1,0 +1,70 @@
+/* SELEKTORY: */
+body {
+	color: #003868;
+	background-color: #6666FF;
+	margin: 6mm;
+}
+
+#table1 {
+	text-align: center; 
+	font-size: 36px; 
+	font-family: Verdana, Arial;
+	border-style: solid;
+	bborder-width: 6px;
+	border-color: blue;
+	border-spacing: 5px;
+	border-collapse: seperate;
+	
+}
+
+#table2{
+	text-align: center; 
+	border-style: solid;
+	bborder-width: 0px;
+	border-spacing: 5px;
+	
+}
+
+
+
+td {
+	width: 296px;
+	height: 60px;
+}
+
+#obrazek{
+	width: 500px; 
+	border-style: solid; 
+	border-width: 4px; 
+	border-color: #000033;
+	height: y;
+}
+
+
+
+#obrazek2{
+width:854px; 
+height:422px; 
+border-style: solid; 
+border-width: 4px; 
+border-color: #000033;
+}
+
+#tabelka1{
+	height:570; 
+	background-color:#CCCCFF;
+	
+}
+
+#tabelka2{
+	width:798; 
+	border:0; 
+	cellspacing:12; 
+	font-size: 26px;
+	
+}
+
+#obrazek3{
+	width:250;
+	height=:188;
+}
